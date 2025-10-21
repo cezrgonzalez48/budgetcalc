@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "budgetcalc",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "e6ff65dc-de58-4e05-bd29-a369a7ad879c",
+      "database_name": "budget-database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
